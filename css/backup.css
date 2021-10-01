@@ -1,0 +1,91 @@
+/* .car-content-1,
+.car-content-2,
+.car-content-3{
+
+}
+
+
+
+.car-container{
+  width: 100%;
+  position: relative;
+  padding: 0 17rem;
+}
+.car-box-container{
+  min-height: 100%;
+  height: auto;
+}
+.car-content-1{
+  padding: 45px;
+  color: white;
+  background-color: hsl(31, 77%, 52%);
+  border-radius: 5px 0px 0px 5px;
+
+  height: 100%;
+}
+.car-content-2{
+  padding: 45px;
+  color: white;
+  background-color: hsl(184, 100%, 22%);
+  height: 100%;
+}
+.car-content-3{
+  padding: 45px;
+  color: white;
+  background-color: hsl(179, 100%, 13%);
+  border-radius: 0 5px 5px 0;
+  height: 100%;
+}
+.title{
+  color: hsl(0, 0%, 95%);
+  font-family: 'Big Shoulders Display', cursive;
+  padding: 25px 0;
+  margin: 0;
+}
+
+.text{
+  color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  padding-bottom: 60px;
+}
+
+.link{
+  padding: 8px 20px 8px 20px;
+  border: 1px solid white;
+  border-radius: 20px;
+  text-decoration: none;
+  font-family: 'Lexend Deca', sans-serif;
+  font-size: 15px;
+  background-color: white;
+}
+.link-1{
+  color: hsl(31, 77%, 52%);
+}
+.link-2{
+  color: hsl(184, 100%, 22%);
+}
+.link-3{
+  color: hsl(179, 100%, 13%);
+}
+.link:hover{
+  background-color: transparent;
+  color: white;
+}
+
+@media only screen and (max-width: 1404px){
+  .car-container{
+    padding: 0 10rem;
+  }
+}
+
+/*
+.car-container{
+  border-radius: 10px;
+  position: relative;
+}
+
+
+.p-md-5{
+  padding: 0 25px;
+} */ */

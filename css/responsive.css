@@ -1,0 +1,21 @@
+@media (max-width: 1199px){
+  .car-box .car-card-container{
+    position: relative;
+    top: 0;
+    left: 0;
+    transform: none;
+    padding: 80px 10px;
+  }
+  .car-border-1{
+    border-radius: 10px 10px 0 0 !important;
+  }
+  .car-border-3{
+    border-radius: 0 0 10px 10px !important;
+  }
+  .car-box .car-card-container .car-content{
+    padding: 40px;
+  }
+  .car-content .text{
+    padding-bottom: 10px;
+  }
+}
